@@ -14,8 +14,7 @@ Below is a _list_ of my **technical skills**:
 - Authentication & Security
 - SQL Databases & NOSQL
 
-## Collaboration
+## Collaboration:
 - Git
 - Github
 - Deployment
-

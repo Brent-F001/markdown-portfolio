@@ -2,4 +2,4 @@
 - Long walks on the beach
 - Running
 - Learning Web development
-- learning Git & github
+- Learning Git & github
